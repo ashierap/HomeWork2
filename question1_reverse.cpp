@@ -1,7 +1,7 @@
-/*1.	Write a program that reverse the given words in a string array. 
-Your program must return a new string array with the reverse words. 
-For example, if one the word in your array is car, then your new array 
-will contain the word rac. */
+/*1.	1.	Write a program that reverse the given words in a string 
+array. Your program must return a new string array with the reverse 
+words and print the new string. For example, if one the word in your 
+array is car, then your new array will contain the word rac. (10 pts) */
 
 // Inlcude all needed packages
 #include <iostream>
